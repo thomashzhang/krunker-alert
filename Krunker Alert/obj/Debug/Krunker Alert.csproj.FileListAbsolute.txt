@@ -1,0 +1,15 @@
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\bin\Debug\Krunker Alert.exe.config
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\bin\Debug\Krunker Alert.exe
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\bin\Debug\Krunker Alert.pdb
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker Alert.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\App.g.cs
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker Alert_MarkupCompile.cache
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker Alert_MarkupCompile.lref
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\MainWindow.baml
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker Alert.g.resources
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker_Alert.Properties.Resources.resources
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker Alert.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker Alert.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker Alert.exe
+C:\Users\Thomas\source\repos\Krunker Alert\Krunker Alert\obj\Debug\Krunker Alert.pdb
